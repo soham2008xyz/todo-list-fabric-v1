@@ -48,7 +48,7 @@
     "tar-stream": "1.5.2",
     "url": "^0.11.0",
     "util": "^0.12.5",
-    "winston": "^2.2.0"
+    "winston": "^3.11.0"
   },
   "license": "Apache-2.0",
   "licenses": [

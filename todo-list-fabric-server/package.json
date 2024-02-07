@@ -17,7 +17,7 @@
     "fabric-ca-client": "file:./fabric-ca-client",
     "fabric-client": "file:./fabric-client",
     "grpc": "1.24.11",
-    "json-parser": "^1.1.5",
+    "json-parser": "^3.1.2",
     "pug": "3.0.1",
     "serve-static": "1.13.0",
     "util": "^0.10.3",

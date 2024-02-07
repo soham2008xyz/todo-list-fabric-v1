@@ -1,4 +1,8 @@
 
+# OBSOLETE: This code pattern is obsolete
+
+> This repository will not be updated. We will keep the repository available for folks interested in some of the technical details. 
+
 *Read this in other languages: [中国](README-cn.md).*
 #  Implementing Common Transactions on IBM Blockchain - Hyperledger Fabric V1
 
@@ -306,4 +310,6 @@ rm -rf ~/.hfc-key-store
 * This example is based on to-do list application using Hyperledger Fabric V0.6 [Hyperledger Fabric V0.6](https://github.com/IBM/todo-list-fabric).
 
 # License
-[Apache 2.0](LICENSE)
+This code pattern is licensed under the Apache Software License, Version 2.  Separate third party code objects invoked within this code pattern are licensed by their respective providers pursuant to their own separate licenses. Contributions are subject to the [Developer Certificate of Origin, Version 1.1 (DCO)](https://developercertificate.org/) and the [Apache Software License, Version 2](https://www.apache.org/licenses/LICENSE-2.0.txt).
+
+[Apache Software License (ASL) FAQ](https://www.apache.org/foundation/license-faq.html#WhatDoesItMEAN)

@@ -44,7 +44,7 @@
     "sjcl": "1.0.3",
     "sjcl-codec": "0.1.1",
     "sleep": "^3.0.1",
-    "stream-buffers": "3.0.1",
+    "stream-buffers": "3.0.2",
     "tar-stream": "1.5.2",
     "url": "^0.11.0",
     "util": "^0.12.5",

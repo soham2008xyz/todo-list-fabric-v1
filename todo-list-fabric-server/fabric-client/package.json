@@ -18,7 +18,7 @@
   "dependencies": {
     "aes-js": "^1.0.0",
     "asn1": "https://github.com/mcavage/node-asn1",
-    "asn1js": "^1.2.12",
+    "asn1js": "^3.0.5",
     "bn.js": "^5.2.1",
     "callsite": "^1.0.0",
     "crypto": "0.0.3",

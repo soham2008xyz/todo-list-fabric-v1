@@ -38,7 +38,7 @@
     "node-dir": "^0.1.16",
     "node.extend": "^1.1.5",
     "path": "^0.12.7",
-    "pkcs11js": "^1.0.6",
+    "pkcs11js": "^2.1.0",
     "pkijs": "^3.0.15",
     "promise-settle": "^0.3.0",
     "sjcl": "1.0.8",

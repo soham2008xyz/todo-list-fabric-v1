@@ -16,7 +16,7 @@
   "engine-strict": true,
   "engineStrict": true,
   "dependencies": {
-    "aes-js": "^1.0.0",
+    "aes-js": "^3.1.2",
     "asn1": "https://github.com/mcavage/node-asn1",
     "asn1js": "^3.0.5",
     "bn.js": "^5.2.1",

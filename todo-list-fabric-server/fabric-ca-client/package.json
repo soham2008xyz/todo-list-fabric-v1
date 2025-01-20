@@ -16,7 +16,7 @@
     "asn1": "https://github.com/mcavage/node-asn1",
     "bn.js": "^5.2.1",
     "elliptic": "^6.2.3",
-    "fs-extra": ">=0.30.0 <11.3.0",
+    "fs-extra": ">=0.30.0 <11.4.0",
     "js-sha3": "^0.9.3",
     "jsrsasign": "^11.1.0",
     "jssha": "^3.3.1",

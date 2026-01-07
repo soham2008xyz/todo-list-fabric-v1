@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "async": "3.2.*",
-    "body-parser": "^1.17.1",
+    "body-parser": "^2.2.1",
     "compression": "1.8.1",
     "cookie-parser": "1.4.*",
     "cors": "2.8.*",

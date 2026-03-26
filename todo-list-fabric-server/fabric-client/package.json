@@ -41,7 +41,7 @@
     "pkcs11js": "^2.1.0",
     "pkijs": "^3.0.15",
     "promise-settle": "^0.3.0",
-    "sjcl": "1.0.8",
+    "sjcl": "1.0.9",
     "sjcl-codec": "0.1.1",
     "sleep": "^6.3.0",
     "stream-buffers": "3.0.3",

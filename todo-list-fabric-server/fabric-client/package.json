@@ -39,7 +39,7 @@
     "node.extend": "^2.0.3",
     "path": "^0.12.7",
     "pkcs11js": "^2.1.0",
-    "pkijs": "^3.0.15",
+    "pkijs": "^4.0.0",
     "promise-settle": "^0.3.0",
     "sjcl": "1.0.9",
     "sjcl-codec": "0.1.1",
